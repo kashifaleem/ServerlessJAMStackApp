@@ -1,0 +1,11 @@
+{
+  "name": "ServerlessJAMStackTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/kashifaleem/ServerlessJAMStackApp.git",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
